@@ -1,6 +1,6 @@
 # TuTaMMArchives
  Hello, this website was created to collect, store, and display information.
-မြန်မာစာပေနှင့် သုတေသနစာတမ်းများ စုဆောင်းရာ repository တစ်ခုဖြစ်သည်။
+မြန်မာစာပေနှင့် သုတေသနစာတမ်းများ စုဆောင်းရာ နေရာတစ်ခုဖြစ်သည်။
 
 ## ရည်ရွယ်ချက်
 - ရှားပါးမြန်မာစာအုပ်များ စုဆောင်းခြင်း
